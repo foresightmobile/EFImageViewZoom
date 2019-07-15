@@ -15,6 +15,7 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://twitter.com/ezefranca'
 
   s.ios.deployment_target = '10.0'
+  s.osx.deployment_target = '10.15'
 
   s.source_files = 'EFImageViewZoom.swift'
 
